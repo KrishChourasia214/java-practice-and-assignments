@@ -22,7 +22,7 @@ class Codes {
             if (i % num1 == 0 && i % num2 == 0) {  
                 temp = i;
                 System.out.println(temp);
-                break;  // Exit once the LCM is found
+                break;  
             }
             
         }
