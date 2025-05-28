@@ -7,7 +7,7 @@ This repository contains coding practice questions and assignments from my self-
 - Control Structures (`if`, `else`, `while`, `for`)
 - Method Creation and Reusability
 - Input Handling using `Scanner`
-- Basic Number Theory (Factors, Primes, Armstrong Numbers)
+- Basic Number Theory (Factors, Primes, Armstrong Numbers, LCM, HCF)
 - String Manipulation
 - Conditional Logic and Loops
 - Modular Coding and Code Organization
